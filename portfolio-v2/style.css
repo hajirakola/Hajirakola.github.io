@@ -357,3 +357,20 @@ html {
         grid-template-columns: 1fr;
     }
 }
+
+.cta-section {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.cta-section h2 {
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.cta-section p {
+    font-size: 20px;
+    color: #b7d9d5;
+    font-weight: 500;
+}
