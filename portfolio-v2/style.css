@@ -351,3 +351,9 @@ footer {
 html {
     scroll-behavior: smooth;
 }
+
+@media (max-width: 768px) {
+    .banner-grid {
+        grid-template-columns: 1fr;
+    }
+}
